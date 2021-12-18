@@ -1,4 +1,4 @@
-# Herkese <img src="hi.gif" width="30px">,
+# Herkese <img src="hi.gif" width="30px">
 
 Bir süredir planladığım ama fırsat bulamadığım bir çalışmayı hayata geçirmek istiyorum. 
 
