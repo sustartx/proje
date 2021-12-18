@@ -70,7 +70,7 @@ Sunucularımız tamamen linux sunucular olacak. Kurulumunu ve ayarlarını birli
 ## Ön Gereksinimler
 
 - En az 1 yazılım dilini basit işler yapacak kadar dahi olsa bilmek. (Geliştirme dışında başka görevler almak isteyenlerde bu şart aranmamaktadır.)
-- Verilecek araştırma konularını tamamalayacak kadar vakti olmak.
+- Verilecek araştırma konularını tamamlayacak kadar vakti olmak.
 
 
 ## Katılım Şartları
