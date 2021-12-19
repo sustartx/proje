@@ -48,7 +48,9 @@ Hiçbir bilgi vermeden açık kaynaklı repoları inceleyerek işe başlayabilir
 
 ## Kullanılacak Teknolojiler
 
-Amaç proje geliştirerek kendimizi geliştirmek olduğu için mümkün olduğunca farklı teknolojileri bir arada kullanarak hem katılımcı sayısını arttırmak hem de iş ortamında farklı teknolojilerin bir arada nasıl kullanıldığını öğretmek niyetiyle birkaç teknolojiyi seçtim. Şu an aşağıda seçtiğim her teknolojiyi kullanabileceğimiz bir modülümüz var. Kimseye zorlama yapmamak için her birini ilgili teknoloji bilen kişiler geliştirecek ama öğrenmek ve kendini geliştirmek isteyenler görev almadığı halde herhangi bir modüle doğrudan katkı sağlamakta özgürdür.
+Amaç proje geliştirerek kendimizi geliştirmek olduğu için mümkün olduğunca farklı teknolojileri bir arada kullanarak hem katılımcı sayısını arttırmak hem de iş ortamında farklı teknolojilerin bir arada nasıl kullanıldığını öğretmek niyetiyle birkaç teknolojiyi seçtim. Şu an aşağıda seçtiğim her teknolojiyi kullanabileceğimiz bir modülümüz var. Kimseye zorlama yapmamak için her birini ilgili teknolojiyi bilen kişiler geliştirecek ama öğrenmek ve kendini geliştirmek isteyenler görev almadığı halde herhangi bir modüle doğrudan katkı sağlamakta özgürdür.
+
+Teknoloji seçimlerim biraz yanlı seçim oldu diyebilirim. Öncelikle iş hayatımda aktif olarak kullandığım teknolojileri seçmeye çalıştım ki olası bir sorun anında daha hızlı müdahale edebileyim. Ardından diğer teknolojileri planladığım projenin teknik gereksinimlerini öngörebildiğim için seçtim. Bu seçimleri birlikte değerlendirip daha uygun teknolojilerle değiştirebiliriz.
 
 **Frontend :** Vue, Nuxt, SCSS, Core JS, Bootstrap veya Tailwind, NodeJS
 
