@@ -46,7 +46,8 @@ Projenin bittiği açıkca duyrulana kadar her an katılabilirsiniz. Herhangi bi
 Hiçbir bilgi vermeden açık kaynaklı repoları inceleyerek işe başlayabilir ve ilk commit ile başvurmadan aramıza katılabilirsin. Yok ben öncesinde tanışmak istiyorum diyorsanız [buraya](https://www.sakirmehmetoglu.com.tr/iletisim) tıklayarak ilk adımı atabilirsiniz. Varsa Github, Gitlab vb. adresiniz, blog adresiniz veya bildiklerinizi paylaştığınız herhangi bir link paylaşmanız sizi uygun yere konumlandırmamızda yardımcı olur.
 
 Discord : https://discord.gg/FehaB4hC82 <br />
-Etkinlik : https://discord.gg/HKpT4P3C?event=926149517676539964
+Etkinlik 1 : https://discord.gg/HKpT4P3C?event=926149517676539964 <br />
+Etkinlik 2 : https://discord.com/events/847598347116478494/934155230654922813
 
 ## Kullanılacak Teknolojiler
 
